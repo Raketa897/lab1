@@ -4,7 +4,7 @@ state = {'turn': 0}
 
 
 def spinner():
-    """Draw fidget spinner."""
+    """Draw finger "g" spinner."""
     clear()
     angle = state['turn'] / 10
     right(angle)
