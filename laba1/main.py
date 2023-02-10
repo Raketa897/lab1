@@ -17,7 +17,7 @@ def spinner():
     back(100)
     right(120)
     forward(100)
-    dot(120, 'blue')
+    dot(120, 'white')
     back(100)
     right(120)
     update()
